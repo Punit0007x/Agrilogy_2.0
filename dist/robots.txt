@@ -1,0 +1,209 @@
+[Error] ReferenceError: Can't find variable: useEffect
+	ScatteredWildFarms (VillageStructures.tsx:3625)
+	renderWithHooks (chunk-EMXP5JYR.js:5892)
+	mountIndeterminateComponent (chunk-EMXP5JYR.js:9375)
+	callCallback2 (chunk-EMXP5JYR.js:10589)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-EMXP5JYR.js:10614)
+	invokeGuardedCallback (chunk-EMXP5JYR.js:10646)
+	beginWork$1 (chunk-EMXP5JYR.js:14200)
+	performUnitOfWork (chunk-EMXP5JYR.js:13664)
+	workLoopSync (chunk-EMXP5JYR.js:13604)
+	renderRootSync (chunk-EMXP5JYR.js:13583)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13115:97)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] ReferenceError: Can't find variable: useEffect
+	PathDecorations (VillageStructures.tsx:3772)
+	renderWithHooks (chunk-EMXP5JYR.js:5892)
+	mountIndeterminateComponent (chunk-EMXP5JYR.js:9375)
+	callCallback2 (chunk-EMXP5JYR.js:10589)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-EMXP5JYR.js:10614)
+	invokeGuardedCallback (chunk-EMXP5JYR.js:10646)
+	beginWork$1 (chunk-EMXP5JYR.js:14200)
+	performUnitOfWork (chunk-EMXP5JYR.js:13664)
+	workLoopSync (chunk-EMXP5JYR.js:13604)
+	renderRootSync (chunk-EMXP5JYR.js:13583)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13115:97)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] ReferenceError: Can't find variable: useEffect
+	ScatteredWildFarms (VillageStructures.tsx:3625)
+	renderWithHooks (chunk-EMXP5JYR.js:5892)
+	mountIndeterminateComponent (chunk-EMXP5JYR.js:9375)
+	callCallback2 (chunk-EMXP5JYR.js:10589)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-EMXP5JYR.js:10614)
+	invokeGuardedCallback (chunk-EMXP5JYR.js:10646)
+	beginWork$1 (chunk-EMXP5JYR.js:14200)
+	performUnitOfWork (chunk-EMXP5JYR.js:13664)
+	workLoopSync (chunk-EMXP5JYR.js:13604)
+	renderRootSync (chunk-EMXP5JYR.js:13583)
+	recoverFromConcurrentError (chunk-EMXP5JYR.js:13173)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13121)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] ReferenceError: Can't find variable: useEffect
+	PathDecorations (VillageStructures.tsx:3772)
+	renderWithHooks (chunk-EMXP5JYR.js:5892)
+	mountIndeterminateComponent (chunk-EMXP5JYR.js:9375)
+	callCallback2 (chunk-EMXP5JYR.js:10589)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-EMXP5JYR.js:10614)
+	invokeGuardedCallback (chunk-EMXP5JYR.js:10646)
+	beginWork$1 (chunk-EMXP5JYR.js:14200)
+	performUnitOfWork (chunk-EMXP5JYR.js:13664)
+	workLoopSync (chunk-EMXP5JYR.js:13604)
+	renderRootSync (chunk-EMXP5JYR.js:13583)
+	recoverFromConcurrentError (chunk-EMXP5JYR.js:13173)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13121)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] The above error occurred in the <ScatteredWildFarms> component:
+
+ScatteredWildFarms@http://localhost:8080/src/components/village/VillageStructures.tsx:3621:28
+group
+VillageStructures@http://localhost:8080/src/components/village/VillageStructures.tsx:3888:40
+group
+@http://localhost:8080/node_modules/.vite/deps/@react-three_drei.js:98227:10
+Suspense
+ErrorBoundary@http://localhost:8080/node_modules/.vite/deps/chunk-EMXP5JYR.js:16490:10
+FiberProvider@
+Provider@http://localhost:8080/node_modules/.vite/deps/chunk-EMXP5JYR.js:17779:8
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+	logCapturedError (chunk-EMXP5JYR.js:7765)
+	callback (chunk-EMXP5JYR.js:7811)
+	callCallback (chunk-EMXP5JYR.js:3716)
+	commitUpdateQueue (chunk-EMXP5JYR.js:3733)
+	commitLayoutEffectOnFiber (chunk-EMXP5JYR.js:11066)
+	commitLayoutMountEffects_complete (chunk-EMXP5JYR.js:12040)
+	commitLayoutEffects_begin (chunk-EMXP5JYR.js:12029)
+	commitLayoutEffects (chunk-EMXP5JYR.js:11980)
+	commitRootImpl (chunk-EMXP5JYR.js:13818)
+	commitRoot (chunk-EMXP5JYR.js:13743)
+	finishConcurrentRender (chunk-EMXP5JYR.js:13242)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13155)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] The above error occurred in the <PathDecorations> component:
+
+PathDecorations@http://localhost:8080/src/components/village/VillageStructures.tsx:3769:40
+group
+VillageStructures@http://localhost:8080/src/components/village/VillageStructures.tsx:3888:40
+group
+@http://localhost:8080/node_modules/.vite/deps/@react-three_drei.js:98227:10
+Suspense
+ErrorBoundary@http://localhost:8080/node_modules/.vite/deps/chunk-EMXP5JYR.js:16490:10
+FiberProvider@
+Provider@http://localhost:8080/node_modules/.vite/deps/chunk-EMXP5JYR.js:17779:8
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+	logCapturedError (chunk-EMXP5JYR.js:7765)
+	callback (chunk-EMXP5JYR.js:7811)
+	callCallback (chunk-EMXP5JYR.js:3716)
+	commitUpdateQueue (chunk-EMXP5JYR.js:3733)
+	commitLayoutEffectOnFiber (chunk-EMXP5JYR.js:11066)
+	commitLayoutMountEffects_complete (chunk-EMXP5JYR.js:12040)
+	commitLayoutEffects_begin (chunk-EMXP5JYR.js:12029)
+	commitLayoutEffects (chunk-EMXP5JYR.js:11980)
+	commitRootImpl (chunk-EMXP5JYR.js:13818)
+	commitRoot (chunk-EMXP5JYR.js:13743)
+	finishConcurrentRender (chunk-EMXP5JYR.js:13242)
+	performConcurrentWorkOnRoot (chunk-EMXP5JYR.js:13155)
+	workLoop (chunk-EMXP5JYR.js:274)
+	flushWork (chunk-EMXP5JYR.js:253)
+	performWorkUntilDeadline (chunk-EMXP5JYR.js:461)
+[Error] ReferenceError: Can't find variable: useEffect
+	Canvas (chunk-EMXP5JYR.js:18276)
+	renderWithHooks (chunk-T2SWDQEL.js:11548)
+	updateForwardRef (chunk-T2SWDQEL.js:14325)
+	callCallback2 (chunk-T2SWDQEL.js:3674)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-T2SWDQEL.js:3699)
+	invokeGuardedCallback (chunk-T2SWDQEL.js:3733)
+	beginWork$1 (chunk-T2SWDQEL.js:19765)
+	performUnitOfWork (chunk-T2SWDQEL.js:19198)
+	workLoopSync (chunk-T2SWDQEL.js:19137)
+	renderRootSync (chunk-T2SWDQEL.js:19116)
+	performConcurrentWorkOnRoot (chunk-T2SWDQEL.js:18678:98)
+	workLoop (chunk-T2SWDQEL.js:197)
+	flushWork (chunk-T2SWDQEL.js:176)
+	performWorkUntilDeadline (chunk-T2SWDQEL.js:384)
+[Error] ReferenceError: Can't find variable: useEffect
+	Canvas (chunk-EMXP5JYR.js:18276)
+	renderWithHooks (chunk-T2SWDQEL.js:11548)
+	updateForwardRef (chunk-T2SWDQEL.js:14325)
+	callCallback2 (chunk-T2SWDQEL.js:3674)
+	dispatchEvent
+	invokeGuardedCallbackDev (chunk-T2SWDQEL.js:3699)
+	invokeGuardedCallback (chunk-T2SWDQEL.js:3733)
+	beginWork$1 (chunk-T2SWDQEL.js:19765)
+	performUnitOfWork (chunk-T2SWDQEL.js:19198)
+	workLoopSync (chunk-T2SWDQEL.js:19137)
+	renderRootSync (chunk-T2SWDQEL.js:19116)
+	recoverFromConcurrentError (chunk-T2SWDQEL.js:18736)
+	performConcurrentWorkOnRoot (chunk-T2SWDQEL.js:18684)
+	workLoop (chunk-T2SWDQEL.js:197)
+	flushWork (chunk-T2SWDQEL.js:176)
+	performWorkUntilDeadline (chunk-T2SWDQEL.js:384)
+[Error] The above error occurred in the <ForwardRef(Canvas)> component:
+
+Canvas@http://localhost:8080/node_modules/.vite/deps/chunk-EMXP5JYR.js:18236:11
+FiberProvider@
+CanvasWrapper
+div
+Index
+RenderedRoute@http://localhost:8080/node_modules/.vite/deps/react-router-dom.js:4091:11
+Routes@http://localhost:8080/node_modules/.vite/deps/react-router-dom.js:4560:12
+Router@http://localhost:8080/node_modules/.vite/deps/react-router-dom.js:4508:12
+BrowserRouter@http://localhost:8080/node_modules/.vite/deps/react-router-dom.js:5251:12
+TooltipProviderProvider@http://localhost:8080/node_modules/.vite/deps/chunk-ZLGIETHI.js:28:52
+TooltipProvider@http://localhost:8080/node_modules/.vite/deps/@radix-ui_react-tooltip.js:2280:12
+QueryClientProvider@http://localhost:8080/node_modules/.vite/deps/@tanstack_react-query.js:2934:9
+App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+	logCapturedError (chunk-T2SWDQEL.js:14032)
+	(anonymous function) (chunk-T2SWDQEL.js:14052)
+	callCallback (chunk-T2SWDQEL.js:11248)
+	commitUpdateQueue (chunk-T2SWDQEL.js:11265)
+	commitLayoutEffectOnFiber (chunk-T2SWDQEL.js:17093)
+	commitLayoutMountEffects_complete (chunk-T2SWDQEL.js:17980)
+	commitLayoutEffects_begin (chunk-T2SWDQEL.js:17969)
+	commitLayoutEffects (chunk-T2SWDQEL.js:17920)
+	commitRootImpl (chunk-T2SWDQEL.js:19353)
+	commitRoot (chunk-T2SWDQEL.js:19277)
+	finishConcurrentRender (chunk-T2SWDQEL.js:18760)
+	performConcurrentWorkOnRoot (chunk-T2SWDQEL.js:18718)
+	workLoop (chunk-T2SWDQEL.js:197)
+	flushWork (chunk-T2SWDQEL.js:176)
+	performWorkUntilDeadline (chunk-T2SWDQEL.js:384)
+[Error] ReferenceError: Can't find variable: useEffect
+	commitRootImpl (chunk-T2SWDQEL.js:19413)
+	commitRoot (chunk-T2SWDQEL.js:19277)
+	finishConcurrentRender (chunk-T2SWDQEL.js:18760)
+	performConcurrentWorkOnRoot (chunk-T2SWDQEL.js:18718)
+	workLoop (chunk-T2SWDQEL.js:197)
+	flushWork (chunk-T2SWDQEL.js:176)
+	performWorkUntilDeadline (chunk-T2SWDQEL.js:384)User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
